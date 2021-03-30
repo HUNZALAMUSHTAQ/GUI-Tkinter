@@ -5,30 +5,6 @@ KEY-FEATURES OF THE APPLICATION:
 4) Data will be saved in form of .txt (more compatible)
 5) The Graph Analysis 📈 is runtime analysis which makes it more user friendly
 6) The Data Entries and Data is displayed dynamically.
-7) Buttons AND Their Functions:
-• Search:
-  ▪ It Takes Name And returns their Stored Data
-• Enter:
-  ▪ This will add name and this won't be saved until Saved button is clicked.
-  ▪ And mandatory requirements are Name CNIC Amount and Age fields.
-• Load:
-  ▪ The New window will be appeared asking to select the file to be loaded or u 
-can just enter new entries without loading any file and save them!
-• Save:
-  ▪ Ask Where To save. :)
-• Show:
-  ▪ This works if Data Display have lost their previous Data for e.g.: on clicking 
-Search button it will show data.
-• Graph Analysis:
-  ▪ It's a very COOL feature this will require Three Fields (Amount, Present 
-    Year, How many Year (like: 2,3,4,10-year plan))
-▪ It will show you data analysis with help of graph (Matplotlib).
-• RUN Time Error Detections:
-  ▪ Detects errors dynamically and shows bottom the graph button
-• Exit:
-  ▪ It will Exit the window and kill all operations
-• Delete Selected:
-▪ It Will Delete Selected Items List Box Frame.3
 
 GRAPHICAL DATA📊:
 
